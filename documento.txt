@@ -1,10 +1,5 @@
-Este es un archivo de prueba 
-para el curso de Git
+Este es un archivo de prueba para el curso de Git
 
 Probando.....
 
-Prueba 2
-
-nueva linea 3
-
-nueva linea 4
+Cambiando con el checkout a la versión inicial más una línea
